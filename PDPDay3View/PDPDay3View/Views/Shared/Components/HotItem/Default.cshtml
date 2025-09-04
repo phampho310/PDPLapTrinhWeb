@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<PDPDay3View.Models.Item>
+
+<div class="bg-primary text-white h5 rounded text-left p-2 mt-3">Sản phẩm bán chạy</div>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-4">
+            <div class="card h-100">
+                <img src="@item.Img" alt="Alternate Text" />
+                <div class="text-black card-body text-center">
+                    <p class="h5">@item.Name</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

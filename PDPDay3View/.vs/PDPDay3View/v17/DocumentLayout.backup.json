@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday3view\\pdpday3view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|solutionrelative:pdpday3view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday3view\\pdpday3view\\views\\shared\\components\\hotitem\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|solutionrelative:pdpday3view\\views\\shared\\components\\hotitem\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday3view\\pdpday3view\\viewcomponents\\hotitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|solutionrelative:pdpday3view\\viewcomponents\\hotitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday3view\\pdpday3view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|solutionrelative:pdpday3view\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday3view\\pdpday3view\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|solutionrelative:pdpday3view\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday3view\\pdpday3view\\pdpday3view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|solutionrelative:pdpday3view\\pdpday3view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday3view\\pdpday3view\\views\\shared\\_menupartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|solutionrelative:pdpday3view\\views\\shared\\_menupartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday3view\\pdpday3view\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|solutionrelative:pdpday3view\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday3view\\pdpday3view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1D51AB3-40CA-4FE0-963E-FA866A028800}|PDPDay3View\\PDPDay3View.csproj|solutionrelative:pdpday3view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotItem.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\ViewComponents\\HotItem.cs",
+              "RelativeDocumentMoniker": "PDPDay3View\\ViewComponents\\HotItem.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\ViewComponents\\HotItem.cs",
+              "RelativeToolTip": "PDPDay3View\\ViewComponents\\HotItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:00:00.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PDPDay3View",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\PDPDay3View.csproj",
+              "RelativeDocumentMoniker": "PDPDay3View\\PDPDay3View.csproj",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\PDPDay3View.csproj",
+              "RelativeToolTip": "PDPDay3View\\PDPDay3View.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T03:59:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Shared\\Components\\HotItem\\Default.cshtml",
+              "RelativeDocumentMoniker": "PDPDay3View\\Views\\Shared\\Components\\HotItem\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Shared\\Components\\HotItem\\Default.cshtml",
+              "RelativeToolTip": "PDPDay3View\\Views\\Shared\\Components\\HotItem\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:58:54.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_MenuPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Shared\\_MenuPartialView.cshtml",
+              "RelativeDocumentMoniker": "PDPDay3View\\Views\\Shared\\_MenuPartialView.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Shared\\_MenuPartialView.cshtml",
+              "RelativeToolTip": "PDPDay3View\\Views\\Shared\\_MenuPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:53:51.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PDPDay3View\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PDPDay3View\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-04T03:46:47.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PDPDay3View\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "PDPDay3View\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:09:50.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "PDPDay3View\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Models\\Item.cs",
+              "RelativeToolTip": "PDPDay3View\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:44:26.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PDPDay3View\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PDPDay3View\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:38:15.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PDPDay3View\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PDPDay3View\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T02:53:25.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDPDay3View", "PDPDay3View\PDPDay3View.csproj", "{E1D51AB3-40CA-4FE0-963E-FA866A028800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D51AB3-40CA-4FE0-963E-FA866A028800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D51AB3-40CA-4FE0-963E-FA866A028800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D51AB3-40CA-4FE0-963E-FA866A028800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D51AB3-40CA-4FE0-963E-FA866A028800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7411433-52CF-4ED4-AE8C-4BDD2786DAD7}
+	EndGlobalSection
+EndGlobal
