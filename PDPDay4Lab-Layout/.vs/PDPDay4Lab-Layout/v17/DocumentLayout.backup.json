@@ -41,6 +41,10 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
@@ -50,12 +54,7 @@
               "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T13:15:48.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-09-18T13:15:48.529Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T13:15:05.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T13:15:05.147Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "PDPDay4Lab-Layout\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:15:36.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T13:15:36.586Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Scripts.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T13:14:20.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T13:14:20.777Z"
             },
             {
               "$type": "Document",
@@ -102,9 +98,9 @@
               "Title": "_Sidebar.cshtml",
               "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml",
               "RelativeDocumentMoniker": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml*",
-              "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-18T13:13:55.269Z",
               "EditorCaption": ""
@@ -119,8 +115,7 @@
               "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T13:14:09.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T13:14:09.111Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Navbar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T13:13:39.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T13:13:39.862Z"
             }
           ]
         }
