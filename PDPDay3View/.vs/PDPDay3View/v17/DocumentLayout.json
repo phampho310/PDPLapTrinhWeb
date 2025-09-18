@@ -62,21 +62,19 @@
               "RelativeToolTip": "PDPDay3View\\ViewComponents\\HotItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:00:00.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T04:00:00.6Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PDPDay3View",
+              "Title": "PDPDay3View.csproj",
               "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\PDPDay3View.csproj",
               "RelativeDocumentMoniker": "PDPDay3View\\PDPDay3View.csproj",
               "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\PDPDay3View.csproj",
               "RelativeToolTip": "PDPDay3View\\PDPDay3View.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-04T03:59:26.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T03:59:26.56Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "PDPDay3View\\Views\\Shared\\Components\\HotItem\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T03:58:54.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T03:58:54.661Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "PDPDay3View\\Views\\Shared\\_MenuPartialView.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T03:53:51.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T03:53:51.478Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "RelativeToolTip": "PDPDay3View\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAwAAAAAAAAAAAAUwCYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-04T03:46:47.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T03:46:47.193Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "PDPDay3View\\Models\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T02:44:26.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T02:44:26.212Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "PDPDay3View\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T02:38:15.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T02:38:15.068Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "PDPDay3View\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-04T02:53:25.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T02:53:25.12Z"
             }
           ]
         }

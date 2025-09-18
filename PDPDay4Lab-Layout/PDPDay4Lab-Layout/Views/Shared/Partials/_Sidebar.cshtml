@@ -1,0 +1,48 @@
+﻿<aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <a asp-controller="Home" asp-action="Index" class="brand-link">
+        <span class="brand-text font-weight-light">My Admin</span>
+    </a>
+
+    <div class="sidebar">
+        <!-- User panel -->
+        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+            <div class="image">
+                <img src="https://ui-avatars.com/api/?name=Admin" class="img-circle elevation-2" alt="User">
+            </div>
+            <div class="info">
+                <a href="#" class="d-block">Admin</a>
+            </div>
+        </div>
+
+        <!-- Menu -->
+        <nav class="mt-2">
+            @{
+                var currentController = ViewContext.RouteData.Values["controller"]?.ToString();
+                var currentAction = ViewContext.RouteData.Values["action"]?.ToString();
+            }
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu">
+                <li class="nav-item">
+                    <a asp-controller="Home" asp-action="Index"
+                       class="nav-link @(currentAction == "Index" ? "active" : "")">
+                        <i class="nav-icon fas fa-tachometer-alt"></i>
+                        <p>Dashboard</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Home" asp-action="Tables"
+                       class="nav-link @(currentAction == "Tables" ? "active" : "")">
+                        <i class="nav-icon fas fa-table"></i>
+                        <p>Tables</p>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Home" asp-action="Forms"
+                       class="nav-link @(currentAction == "Forms" ? "active" : "")">
+                        <i class="nav-icon fas fa-edit"></i>
+                        <p>Forms</p>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</aside>

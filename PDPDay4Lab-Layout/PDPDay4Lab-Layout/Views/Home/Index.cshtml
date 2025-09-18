@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = ViewData["Title"] ?? "Dashboard";
+}
+
+@section Breadcrumb {
+    <li class="breadcrumb-item active">@ViewData["Title"]</li>
+}
+
+@section Styles {
+    <style>
+        .kpi-card { min-height: 110px; }
+    </style>
+}
+
+<div class="row">
+    <div class="col-lg-3 col-6">
+        <div class="small-box bg-info kpi-card">
+            <div class="inner">
+                <h3>150</h3>
+                <p>Đơn hàng mới</p>
+            </div>
+            <div class="icon"><i class="fas fa-shopping-cart"></i></div>
+            <a href="#" class="small-box-footer">Chi tiết <i class="fas fa-arrow-circle-right"></i></a>
+        </div>
+    </div>
+
+    <div class="col-lg-3 col-6">
+        <div class="small-box bg-success kpi-card">
+            <div class="inner">
+                <h3>53<sup style="font-size: 20px">%</sup></h3>
+                <p>Tỉ lệ hoàn thành</p>
+            </div>
+            <div class="icon"><i class="fas fa-chart-line"></i></div>
+            <a href="#" class="small-box-footer">Chi tiết <i class="fas fa-arrow-circle-right"></i></a>
+        </div>
+    </div>
+
+    <div class="col-lg-6 col-12">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Danh sách gần đây</h3>
+            </div>
+            <div class="card-body p-0">
+                <table class="table table-striped">
+                    <thead>
+                        <tr><th>#</th><th>Tên</th><th>Trạng thái</th><th></th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>1</td><td>Sản phẩm A</td><td><span class="badge badge-success">Active</span></td><td><a href="#">Sửa</a></td></tr>
+                        <tr><td>2</td><td>Sản phẩm B</td><td><span class="badge badge-warning">Pending</span></td><td><a href="#">Sửa</a></td></tr>
+                        <tr><td>3</td><td>Sản phẩm C</td><td><span class="badge badge-danger">Blocked</span></td><td><a href="#">Sửa</a></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // JS trang này (nếu cần)
+        console.log('Dashboard loaded');
+    </script>
+}

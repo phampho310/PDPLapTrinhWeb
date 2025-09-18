@@ -46,8 +46,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -119,9 +123,9 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PDPDay3View\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "PDPDay3View\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay3View\\PDPDay3View\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PDPDay3View\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-04T03:09:50.603Z",
               "EditorCaption": ""

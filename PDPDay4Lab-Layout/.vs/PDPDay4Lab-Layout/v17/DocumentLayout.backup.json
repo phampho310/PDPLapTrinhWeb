@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday4lab-layout\\pdpday4lab-layout\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|solutionrelative:pdpday4lab-layout\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday4lab-layout\\pdpday4lab-layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|solutionrelative:pdpday4lab-layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday4lab-layout\\pdpday4lab-layout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|solutionrelative:pdpday4lab-layout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday4lab-layout\\pdpday4lab-layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|solutionrelative:pdpday4lab-layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday4lab-layout\\pdpday4lab-layout\\views\\shared\\partials\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|solutionrelative:pdpday4lab-layout\\views\\shared\\partials\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday4lab-layout\\pdpday4lab-layout\\views\\shared\\partials\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|solutionrelative:pdpday4lab-layout\\views\\shared\\partials\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|c:\\users\\pham danh pho\\documents\\laptrinhweb\\pdpday4lab-layout\\pdpday4lab-layout\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15BB91DF-63F2-4C8E-A4F4-33158BBC9804}|PDPDay4Lab-Layout\\PDPDay4Lab-Layout.csproj|solutionrelative:pdpday4lab-layout\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PDPDay4Lab-Layout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:15:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PDPDay4Lab-Layout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:15:05.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PDPDay4Lab-Layout\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PDPDay4Lab-Layout\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:15:36.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Scripts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Scripts.cshtml",
+              "RelativeDocumentMoniker": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Scripts.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Scripts.cshtml",
+              "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Scripts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:14:20.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml*",
+              "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Sidebar.cshtml*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:13:55.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Footer.cshtml",
+              "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:14:09.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\Documents\\LapTrinhWeb\\PDPDay4Lab-Layout\\PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "RelativeToolTip": "PDPDay4Lab-Layout\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:13:39.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

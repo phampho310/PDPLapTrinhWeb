@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDPDay3View")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1810bcc0d3afe4eddc5b6520be0f218e195fb076")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf07717e30da37d47994d935f4941b0decf74c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDPDay3View")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDPDay3View")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
