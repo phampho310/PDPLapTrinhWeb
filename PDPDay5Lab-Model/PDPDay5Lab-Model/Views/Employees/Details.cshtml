@@ -1,0 +1,40 @@
+﻿@model PDPDay5Lab_Model.Models.Employee
+
+@{
+    ViewData["Title"] = "Chi tiết nhân viên";
+}
+
+<div class="card shadow-lg">
+    <div class="card-header bg-primary text-white">
+        <h4>Thông tin chi tiết nhân viên</h4>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Id</dt>
+            <dd class="col-sm-9">@Model.Id</dd>
+
+            <dt class="col-sm-3">Họ tên</dt>
+            <dd class="col-sm-9">@Model.FullName</dd>
+
+            <dt class="col-sm-3">Giới tính</dt>
+            <dd class="col-sm-9">@Model.Gender</dd>
+
+            <dt class="col-sm-3">Điện thoại</dt>
+            <dd class="col-sm-9">@Model.Phone</dd>
+
+            <dt class="col-sm-3">Email</dt>
+            <dd class="col-sm-9">@Model.Email</dd>
+
+            <dt class="col-sm-3">Lương</dt>
+            <dd class="col-sm-9">@Model.Salary.ToString("C0")</dd>
+
+            <dt class="col-sm-3">Trạng thái</dt>
+            <dd class="col-sm-9">
+                @(Model.Status ? "Đang làm" : "Nghỉ")
+            </dd>
+        </dl>
+    </div>
+    <div class="card-footer">
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </div>
+</div>
