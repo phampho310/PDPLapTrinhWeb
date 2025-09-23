@@ -1,8 +1,11 @@
-﻿namespace PDPDay5Lab_Model.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace PDPDay5Lab_Model.Models
 {
     public class Employee
     {
-        public int Id { get; set; }
+        [Key]
+        public Guid Id { get; set; } = Guid.NewGuid();
         public string FullName { get; set; }
         public string Gender { get; set; }
         public string Phone { get; set; }

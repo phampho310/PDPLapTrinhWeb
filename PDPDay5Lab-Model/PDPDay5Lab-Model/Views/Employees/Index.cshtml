@@ -1,55 +1,96 @@
 ﻿@model IEnumerable<PDPDay5Lab_Model.Models.Employee>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
-@{
-    ViewData["Title"] = "Danh sách nhân viên";
-}
+<div class="container mt-4">
 
-<div class="d-flex justify-content-between align-items-center mb-3">
-    <h2 class="text-primary">Danh sách nhân viên</h2>
-    <a asp-action="Create" class="btn btn-success">
-        <i class="bi bi-plus-circle"></i> Thêm nhân viên
-    </a>
+    <div class="card shadow-sm mb-4">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Thêm nhân viên</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Index" method="post" class="row g-3">
+                <div class="col-md-6">
+                    <label class="form-label">Họ tên</label>
+                    <input name="FullName" class="form-control" placeholder="Nhập họ tên..." />
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Giới tính</label>
+                    <select name="Gender" class="form-select">
+                        <option value="">-- Chọn giới tính --</option>
+                        <option value="Nam">Nam</option>
+                        <option value="Nữ">Nữ</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Số điện thoại</label>
+                    <input name="Phone" class="form-control" placeholder="VD: 098xxxxxxx" />
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Email</label>
+                    <input name="Email" type="email" class="form-control" placeholder="example@gmail.com" />
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Lương</label>
+                    <input name="Salary" type="number" class="form-control" placeholder="Nhập lương..." />
+                </div>
+                <div class="col-md-6">
+                    <label class="form-label">Trạng thái</label>
+                    <select name="Status" class="form-select">
+                        <option value="true">Đang đi làm</option>
+                        <option value="false">Đang nghỉ</option>
+                    </select>
+                </div>
+                <div class="col-12 text-end">
+                    <button type="submit" class="btn btn-success">
+                        <i class="bi bi-plus-circle"></i> Thêm
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-header bg-dark text-white">
+            <h4 class="mb-0">Danh sách nhân viên</h4>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered table-striped align-middle text-center">
+                <thead class="table-primary">
+                    <tr>
+                        <th>Id</th>
+                        <th>Họ tên</th>
+                        <th>Giới tính</th>
+                        <th>Email</th>
+                        <th>Điện thoại</th>
+                        <th>Lương</th>
+                        <th>Trạng thái</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var emp in Model)
+                    {
+                        <tr>
+                            <td>@emp.Id</td>
+                            <td>@emp.FullName</td>
+                            <td>@emp.Gender</td>
+                            <td>@emp.Email</td>
+                            <td>@emp.Phone</td>
+                            <td>@emp.Salary.ToString("N0")</td>
+                            <td>
+                                @if (emp.Status == true)
+                                {
+                                    <span class="badge bg-success">Đang đi làm</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-danger">Đang nghỉ</span>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
 </div>
-
-<table class="table table-hover table-bordered shadow-sm">
-    <thead class="table-dark">
-        <tr>
-            <th>Id</th>
-            <th>Họ tên</th>
-            <th>Giới tính</th>
-            <th>Điện thoại</th>
-            <th>Email</th>
-            <th>Lương</th>
-            <th>Trạng thái</th>
-            <th class="text-center">Thao tác</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>@item.Id</td>
-                <td>@item.FullName</td>
-                <td>@item.Gender</td>
-                <td>@item.Phone</td>
-                <td>@item.Email</td>
-                <td>@item.Salary.ToString("C0")</td>
-                <td>
-                    @if (item.Status)
-                    {
-                        <span class="badge bg-success">Đang làm</span>
-                    }
-                    else
-                    {
-                        <span class="badge bg-secondary">Nghỉ</span>
-                    }
-                </td>
-                <td class="text-center">
-                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Chi tiết</a>
-                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Sửa</a>
-                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Xóa</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>

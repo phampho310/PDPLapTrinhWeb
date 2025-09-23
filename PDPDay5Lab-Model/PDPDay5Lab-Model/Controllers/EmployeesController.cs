@@ -1,31 +1,35 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PDPDay5Lab_Model.Models;
+using System;
 namespace PDPDay5Lab_Model.Controllers
 {
     public class EmployeesController : Controller
     {
-        
-        private static List<Employee> employees = new List<Employee>
+        private readonly AppDbContext _context;
+
+        public EmployeesController(AppDbContext context)
         {
-            new Employee { Id = 1, FullName = "Nguyen Van A", Gender = "Nam", Phone = "0123456789", Email = "a@gmail.com", Salary = 1000, Status = true },
-            new Employee { Id = 2, FullName = "Tran Thi B", Gender = "Nữ", Phone = "0987654321", Email = "b@gmail.com", Salary = 1500, Status = false },
-            new Employee { Id = 3, FullName = "Le Van C", Gender = "Nam", Phone = "0909123456", Email = "c@gmail.com", Salary = 2000, Status = true },
-            new Employee { Id = 4, FullName = "Le Van D", Gender = "Nam", Phone = "0909654321", Email = "d@gmail.com", Salary = 2000, Status = true }
+            _context = context;
+        }
 
-        };
-
-        
+        [HttpGet]
         public IActionResult Index()
         {
+            var employees = _context.Employees.ToList();
             return View(employees);
         }
 
-        
-        public IActionResult Details(int id)
+        [HttpPost]
+        public IActionResult Index(PDPDay5Lab_Model.Models.Employee emp)
         {
-            var emp = employees.FirstOrDefault(e => e.Id == id);
-            if (emp == null) return NotFound();
-            return View(emp);
+            var employees = _context.Employees.ToList();
+            if (ModelState.IsValid)
+            {
+                _context.Employees.Add(emp);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(employees);
         }
     }
 }
