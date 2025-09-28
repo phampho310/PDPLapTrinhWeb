@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Quản lý dữ liệu</h2>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h4 class="card-title">Danh mục (Category)</h4>
+                    <p class="card-text text-muted">Quản lý danh mục sản phẩm</p>
+                    <a asp-controller="Category" asp-action="Index" class="btn btn-primary">
+                        👉 Đi tới Category
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card shadow-sm border-0">
+                <div class="card-body text-center">
+                    <h4 class="card-title">Sản phẩm (Product)</h4>
+                    <p class="card-text text-muted">Quản lý danh sách sản phẩm</p>
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-success">
+                        👉 Đi tới Product
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

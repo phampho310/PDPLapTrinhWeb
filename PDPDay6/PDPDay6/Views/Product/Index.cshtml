@@ -1,0 +1,61 @@
+﻿@model IEnumerable<PDPDay6.Models.Product>
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">➕ Thêm sản phẩm</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-light">
+        <tr>
+            <th>Tên</th>
+            <th>Giá</th>
+            <th>Giá KM</th>
+            <th>Danh mục</th>
+            <th>Ảnh</th>
+            <th style="width:200px;">Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Price.ToString("N0")</td>
+                    <td>@p.SalePrice.ToString("N0")</td>
+                    <td>@p.Category?.Name</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(p.Image))
+                        {
+                            <img src="@p.Image" width="80" style="border:1px solid #ccc; padding:2px;" />
+                        }
+                        else
+                        {
+                            <span class="text-muted">Không có ảnh</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@p.Id" class="btn btn-info btn-sm">Chi tiết</a>
+                        <a asp-action="Edit" asp-route-id="@p.Id" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="Delete" asp-route-id="@p.Id" class="btn btn-danger btn-sm"
+                           onclick="return confirm('Bạn có chắc muốn xóa sản phẩm này?');">
+                            Xóa
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center text-muted">Chưa có sản phẩm nào</td>
+            </tr>
+        }
+    </tbody>
+</table>

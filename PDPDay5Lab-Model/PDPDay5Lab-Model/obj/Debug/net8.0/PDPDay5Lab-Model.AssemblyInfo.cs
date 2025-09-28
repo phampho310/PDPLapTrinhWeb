@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDPDay5Lab-Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fdc84ff32812ad9421dcb0a0895cef9600f4d95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a1c6eedb121cc3f29c32c1ca609e6c22fd772a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDPDay5Lab-Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDPDay5Lab-Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

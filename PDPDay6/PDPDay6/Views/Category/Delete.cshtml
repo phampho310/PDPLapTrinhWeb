@@ -1,0 +1,13 @@
+﻿@model PDPDay6.Models.Category
+
+<h2>Xóa danh mục</h2>
+<h4>Bạn có chắc chắn muốn xóa?</h4>
+<div>
+    <b>@Model.Name</b>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>
