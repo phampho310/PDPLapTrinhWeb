@@ -1,0 +1,27 @@
+﻿@model IEnumerable<PDPDay8EF_CF.Models.Product>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<h2 class="mb-4 text-primary">Danh sách sản phẩm</h2>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3 mb-4">
+            <div class="card h-100 shadow-sm">
+                <img src="@item.Image" class="card-img-top" alt="@item.Name"
+                     style="height:250px; object-fit:contain;">
+                <div class="card-body text-center">
+                    <h6 class="card-title">@item.Name</h6>
+                    <p class="text-danger fw-bold">@item.Price.ToString("N0") ₫</p>
+                    <a asp-controller="Products" asp-action="Details" asp-route-id="@item.Id"
+                       class="btn btn-primary btn-sm w-100 mt-2">Xem chi tiết</a>
+
+
+                </div>
+            </div>
+        </div>
+    }
+</div>

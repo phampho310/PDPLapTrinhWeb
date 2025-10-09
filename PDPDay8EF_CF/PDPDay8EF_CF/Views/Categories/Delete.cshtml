@@ -1,0 +1,33 @@
+﻿@model PDPDay8EF_CF.Models.Category
+
+@{
+    ViewData["Title"] = "Xóa danh mục";
+}
+
+<h2>Xóa danh mục</h2>
+
+<h5 class="text-danger">Bạn có chắc chắn muốn xóa danh mục này không?</h5>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-3 fw-bold">Name</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+
+            <dt class="col-sm-3 fw-bold">Status</dt>
+            <dd class="col-sm-9">
+                @(Model.Status == 1 ? "1" : "0")
+            </dd>
+
+            <dt class="col-sm-3 fw-bold">Create Date</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.CreateDate)</dd>
+        </dl>
+
+        <form asp-action="Delete" method="post" class="mt-3 d-flex gap-2">
+            <input type="hidden" asp-for="Id" />
+            <input type="submit" value="Xóa" class="btn btn-danger" />
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,30 @@
+﻿@model PDPDay8EF_CF.Models.Category
+
+@{
+    ViewData["Title"] = "Chi tiết danh mục";
+}
+
+<h2>Chi tiết danh mục</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <dl class="row">
+            <dt class="col-sm-3 fw-bold">Name</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+
+            <dt class="col-sm-3 fw-bold">Status</dt>
+            <dd class="col-sm-9">
+                @(Model.Status == 1 ? "1" : "0")
+            </dd>
+
+            <dt class="col-sm-3 fw-bold">Create Date</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.CreateDate)</dd>
+        </dl>
+
+        <div class="d-flex gap-2 mt-3">
+            <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-success">Edit</a>
+            <a asp-action="Index" class="btn btn-danger">Back to List</a>
+        </div>
+    </div>
+</div>

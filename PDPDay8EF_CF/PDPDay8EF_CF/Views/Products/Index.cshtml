@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PDPDay8EF_CF.Models.Product>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary mb-3">+ Thêm sản phẩm</a>
+</p>
+
+<table class="table table-bordered table-striped align-middle text-center">
+    <thead class="table-dark">
+        <tr>
+            <th>Tên sản phẩm</th>
+            <th>Hình ảnh</th>
+            <th>Giá</th>
+            <th>Giá khuyến mãi</th>
+            <th>Trạng thái</th>
+            <th>Mô tả</th>
+            <th>Ngày tạo</th>
+            <th>Danh mục</th>
+            <th>Chức năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.Image))
+                    {
+                        <img src="@item.Image" alt="@item.Name" style="width:70px;height:70px;object-fit:cover;border-radius:8px;" />
+                    }
+                    else
+                    {
+                        <span class="text-muted fst-italic">No Image</span>
+                    }
+                </td>
+                <td>@string.Format("{0:N0} ₫", item.Price)</td>
+                <td>@string.Format("{0:N0} ₫", item.SalePrice)</td>
+                <td>@(item.Status == 1 ? "1" : "0")</td>
+                <td class="text-truncate" style="max-width:200px;">@item.Descriptions</td>
+                <td>@item.CreatedDate.ToString("dd/MM/yyyy")</td>
+                <td>@item.Category?.Name</td>
+                <td>
+                    <div class="btn-group">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-success">Sửa</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info text-white">Chi tiết</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Xóa</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
