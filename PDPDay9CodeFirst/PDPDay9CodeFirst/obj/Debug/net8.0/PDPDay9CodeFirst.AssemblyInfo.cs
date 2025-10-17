@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDPDay9CodeFirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a4990524f723f22d25e2d787d5d8326de546e13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f705e1b567dc1043745f524572d5b31f4e412b8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDPDay9CodeFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDPDay9CodeFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

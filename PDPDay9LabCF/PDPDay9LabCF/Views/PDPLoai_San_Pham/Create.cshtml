@@ -1,0 +1,43 @@
+﻿@model PDPDay9LabCF.Models.PDPLoai_San_Pham
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PDPLoai_San_Pham</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="pdpMaLoai" class="control-label"></label>
+                <input asp-for="pdpMaLoai" class="form-control" />
+                <span asp-validation-for="pdpMaLoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="pdpTenLoai" class="control-label"></label>
+                <input asp-for="pdpTenLoai" class="form-control" />
+                <span asp-validation-for="pdpTenLoai" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="pdpTrangThai" /> @Html.DisplayNameFor(model => model.pdpTrangThai)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
