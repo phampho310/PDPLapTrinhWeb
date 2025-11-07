@@ -1,0 +1,84 @@
+﻿@model PDPDay9LabCF.Models.PDPSan_Pham
+
+@{
+    ViewData["Title"] = "Cập nhật sản phẩm";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-lg border-0 rounded-4 p-4">
+        <h3 class="text-primary mb-3"><i class="bi bi-pencil-square"></i> Cập nhật sản phẩm</h3>
+        <hr />
+
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+            <input type="hidden" asp-for="pdpId" />
+
+            <div class="row">
+                <!-- Cột thông tin -->
+                <div class="col-md-6">
+                    <div class="mb-3">
+                        <label asp-for="pdpMaSanPham" class="form-label"></label>
+                        <input asp-for="pdpMaSanPham" class="form-control" />
+                        <span asp-validation-for="pdpMaSanPham" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="pdpTenSanPham" class="form-label"></label>
+                        <input asp-for="pdpTenSanPham" class="form-control" />
+                        <span asp-validation-for="pdpTenSanPham" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="pdpSoLuong" class="form-label"></label>
+                        <input asp-for="pdpSoLuong" class="form-control" />
+                        <span asp-validation-for="pdpSoLuong" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="pdpDonGia" class="form-label"></label>
+                        <input asp-for="pdpDonGia" class="form-control" />
+                        <span asp-validation-for="pdpDonGia" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="pdpLoaiSanPhamId" class="form-label"></label>
+                        <input asp-for="pdpLoaiSanPhamId" class="form-control" />
+                        <span asp-validation-for="pdpLoaiSanPhamId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <!-- Cột hình ảnh -->
+                <div class="col-md-6 text-center">
+                    <label class="form-label">Ảnh sản phẩm hiện tại</label>
+                    <div class="mb-3">
+                        @if (!string.IsNullOrEmpty(Model.pdpHinhAnh))
+                        {
+                            <img src="~/images/@Model.pdpHinhAnh" alt="Ảnh sản phẩm" class="img-fluid rounded shadow-sm" style="max-height:250px;object-fit:cover;" />
+                        }
+                        else
+                        {
+                            <div class="text-muted fst-italic">Chưa có ảnh</div>
+                        }
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="newImage" class="form-label">Chọn ảnh mới (nếu muốn thay)</label>
+                        <input type="file" name="newImage" id="newImage" class="form-control" accept="image/*" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-end mt-4">
+                <input type="submit" value="Lưu thay đổi" class="btn btn-success me-2" />
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="bi bi-arrow-left-circle"></i> Quay lại
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+}

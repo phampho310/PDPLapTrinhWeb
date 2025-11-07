@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDPDay8EF_CF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d49ac799ea60a11952c5eb7efac2d373c95e20cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+253fb8e9a6f6c2605ad68f57a16612815baf3134")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDPDay8EF_CF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDPDay8EF_CF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

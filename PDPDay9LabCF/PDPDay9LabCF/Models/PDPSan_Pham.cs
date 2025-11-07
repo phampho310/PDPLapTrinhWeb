@@ -20,7 +20,7 @@ namespace PDPDay9LabCF.Models
         public string pdpTenSanPham { get; set; }
 
         [Display(Name = "Hình ảnh")]
-        public string pdpHinhAnh { get; set; }
+        public string? pdpHinhAnh { get; set; }
 
         [Display(Name = "Số lượng")]
         public int pdpSoLuong { get; set; }

@@ -1,0 +1,64 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "PdpForm";
+}
+<div>
+    <label for="txtForm">Form</label>
+    <input type="text" name="testForm" id="txtForm" value="Pham Pho" />
+</div>
+<div>
+    <button>>></button>
+</div>
+<div>
+    <label for="txtTo">To</label>
+    <input type="text" name="txtTo" id="txtTo" value="anonymous...." />
+</div>
+<div>
+    <h1>Chon 1 mau</h1>
+    <div class="btn">
+        <button data-value="red">Do</button>
+        <button data-value="blue">Xanh</button>
+        <button data-value="yellow">Vang</button>
+        <button data-value="purple">Tim</button>
+        <button data-value="gray">Ghi</button>
+    </div>
+    <p>
+        Pham Danh Pho dep trai 
+    </p>
+</div>
+
+
+@section PdpScripts {
+    <script>
+        // You can write your JavaScript code here
+        console.log("Haha");
+        $(document).ready(function() {
+            $("button").click(function() {             
+               // lay noi dung cua label form
+               // let lblFromContent = $('label[for="txtForm]').text();
+               let lblFromContent = $('label[for="txtForm"]').html();
+               console.log("lblFromContent:", lblFromContent);
+               // Lay noi dung input
+               let valFrom = $('#txtForm').val();
+               // Gan cho phan To
+               // $('label[for="txtForm]').text(lblFromContent);
+               $('label[for="txtTo]').html(lblFromContent);
+               $('#txtTo').val(valFrom);
+            });
+
+            $('.btn button').each(function(){
+                let varColor = $(this).attr('data-value');
+                $(this).css({
+                    'border' : '2px solid' + varColor,
+                    'color': varColor,
+                    'width': '200px'
+                })
+                .click(function(){
+                    $('p').css('background', varColor);
+                });
+            });
+        });
+    </script>
+}

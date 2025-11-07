@@ -1,0 +1,96 @@
+﻿@model PDPDay9LabCF.Models.PDPSan_Pham
+
+@{
+    ViewData["Title"] = "Thêm sản phẩm";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-4">
+        <div class="card-header bg-primary text-white text-center rounded-top-4">
+            <h3>Thêm sản phẩm mới</h3>
+        </div>
+
+        <div class="card-body p-4">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label asp-for="pdpMaSanPham" class="form-label fw-semibold"></label>
+                        <input asp-for="pdpMaSanPham" class="form-control" placeholder="Nhập mã sản phẩm..." />
+                        <span asp-validation-for="pdpMaSanPham" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="pdpTenSanPham" class="form-label fw-semibold"></label>
+                        <input asp-for="pdpTenSanPham" class="form-control" placeholder="Nhập tên sản phẩm..." />
+                        <span asp-validation-for="pdpTenSanPham" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="pdpHinhAnh" class="form-label fw-semibold"></label>
+
+                        <!-- type="file" để chọn ảnh; name="pdpHinhAnh" khớp với tham số trong Controller -->
+                        <input type="file" name="pdpHinhAnh" class="form-control" accept="image/*" id="uploadImg" />
+
+                        <span asp-validation-for="pdpHinhAnh" class="text-danger"></span>
+
+                        <!-- Xem trước ảnh -->
+                        <div class="mt-3 text-center">
+                            <img id="previewImg" src="~/images/default.png" alt="Xem trước ảnh"
+                                 class="img-thumbnail shadow-sm" style="max-width: 250px; display:none;" />
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3">
+                        <label asp-for="pdpSoLuong" class="form-label fw-semibold"></label>
+                        <input asp-for="pdpSoLuong" class="form-control" placeholder="Nhập số lượng..." />
+                        <span asp-validation-for="pdpSoLuong" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-3">
+                        <label asp-for="pdpDonGia" class="form-label fw-semibold"></label>
+                        <input asp-for="pdpDonGia" class="form-control" placeholder="Nhập đơn giá..." />
+                        <span asp-validation-for="pdpDonGia" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label asp-for="pdpLoaiSanPhamId" class="form-label fw-semibold"></label>
+                        <input asp-for="pdpLoaiSanPhamId" class="form-control" placeholder="Nhập mã loại sản phẩm..." />
+                        <span asp-validation-for="pdpLoaiSanPhamId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-success px-4 py-2 me-2">
+                        <i class="bi bi-check-circle"></i> Thêm sản phẩm
+                    </button>
+                    <a asp-action="Index" class="btn btn-secondary px-4 py-2">
+                        <i class="bi bi-arrow-left"></i> Quay lại
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const uploadInput = document.getElementById('uploadImg');
+        const previewImg = document.getElementById('previewImg');
+
+        uploadInput.addEventListener('change', function () {
+            const file = this.files[0];
+            if (file) {
+                previewImg.style.display = "block";
+                previewImg.src = URL.createObjectURL(file);
+            } else {
+                previewImg.style.display = "none";
+            }
+        });
+    </script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

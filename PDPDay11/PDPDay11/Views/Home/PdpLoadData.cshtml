@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@section PdpScripts {
+    <script>
+        // You can write your JavaScript code here
+        console.log("PdpLoadData page loaded");
+        $(document).ready(function() {
+            // Example: Load data via AJAX when the page is ready
+            $.ajax({
+                url: '/api/data/get', // Replace with your API endpoint
+                method: 'GET',
+                success: function(data) {
+                    console.log("Data loaded:", data);
+                    // Process and display the data as needed
+                },
+                error: function(error) {
+                    console.error("Error loading data:", error);
+                }
+            });
+        });
+    </script>
+}
