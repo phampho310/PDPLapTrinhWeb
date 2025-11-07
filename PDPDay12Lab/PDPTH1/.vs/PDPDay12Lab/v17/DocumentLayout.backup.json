@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\pdpday12lab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:pdpday12lab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday12lab\\pdpday12lab\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53EF4308-0062-C6D4-0FBC-7F6AF7CEFA63}|PDPDay12Lab.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\RenderViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:44:55.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:43:02.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:42:59.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeToolTip": "Views\\Shared\\MyLayoutHelper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T12:42:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:41:54.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T12:40:00.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PDPDay12Lab",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\PDPDay12Lab.csproj",
+              "RelativeDocumentMoniker": "PDPDay12Lab.csproj",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\PDPDay12Lab.csproj",
+              "RelativeToolTip": "PDPDay12Lab.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T12:37:19.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T12:41:52.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T12:40:38.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T12:40:31.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T12:39:54.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T12:39:40.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Models\\Branch.cs",
+              "RelativeToolTip": "Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:39:37.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Models\\Gender.cs",
+              "RelativeToolTip": "Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:39:32.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T12:39:21.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay12Lab\\PDPDay12Lab\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:39:13.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

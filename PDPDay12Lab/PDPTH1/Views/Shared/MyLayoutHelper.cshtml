@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Web Template Bootstrap</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/css/styles.css">
+</head>
+<body>
+    <!-- 🔹 Top Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <partial name="TopNav" />
+    </nav>
+
+    <!-- 🔹 Layout chính -->
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Left Menu -->
+            <nav class="col-md-3 col-lg-2 d-md-block bg-light sidebar py-3">
+                @await Component.InvokeAsync("Render")
+            </nav>
+
+            <!-- Main Content -->
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4 py-4">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+    <!-- 🔹 Footer -->
+    <footer class="footer bg-dark text-white text-center py-3">
+        <partial name="Footer" />
+    </footer>
+
+    <!-- Bootstrap JS + Custom JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/scripts.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
