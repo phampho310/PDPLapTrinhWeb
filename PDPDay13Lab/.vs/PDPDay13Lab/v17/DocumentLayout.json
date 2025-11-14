@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|c:\\users\\phamp\\documents\\l\u1EADp tr\u00ECnh web c#\\pdpday13lab\\pdpday13lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5AA5D-D3C6-4A0C-AE62-BB010D4C2832}|PDPDay13Lab\\PDPDay13Lab.csproj|solutionrelative:pdpday13lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Views\\Learner\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Views\\Learner\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Views\\Learner\\Delete.cshtml",
+              "RelativeToolTip": "PDPDay13Lab\\Views\\Learner\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T07:58:36.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Views\\Learner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Views\\Learner\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Views\\Learner\\Edit.cshtml",
+              "RelativeToolTip": "PDPDay13Lab\\Views\\Learner\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T07:53:13.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Controllers\\LearnerController.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAowHEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:20:11.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Models\\Major.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\Major.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:46:06.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:55:46.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:54:38.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\Enrollment.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:53:01.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Models\\Learner.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\Learner.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:48:30.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Models\\Course.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:51:11.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:00:07.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Program.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Program.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:38:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "PDPDay13Lab\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T07:21:36.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Views\\Learner\\Create.cshtml",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Views\\Learner\\Create.cshtml",
+              "RelativeToolTip": "PDPDay13Lab\\Views\\Learner\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T07:41:04.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\appsettings.json",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\appsettings.json",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\appsettings.json",
+              "RelativeToolTip": "PDPDay13Lab\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T06:38:10.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PDPDay13Lab\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\L\u1EADp Tr\u00ECnh Web C#\\PDPDay13Lab\\PDPDay13Lab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PDPDay13Lab\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:38:03.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
