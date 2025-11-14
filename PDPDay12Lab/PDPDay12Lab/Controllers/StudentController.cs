@@ -37,6 +37,12 @@ namespace PDPDay12Lab.Controllers
         [HttpGet]
         public IActionResult Create()
         {
+            if (ModelState.IsValid)
+            {
+                s.Id = listStudents.Last<Student>().Id + 1;
+                listStudents.Add(s);
+                return View("Index", listStudents);
+            }
             // lấy danh sách các giá trị Gender để hiển thị radio button trên form
             ViewBag.AllGenders = Enum.GetValues(typeof(Gender)).Cast<Gender>().ToList();
             // lấy danh sách các giá trị Branch để hiển thị select-option trên form
