@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDPDay13Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+658c855217fd79bfdf727a1b309693c0e74e9ba9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDPDay13Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDPDay13Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
