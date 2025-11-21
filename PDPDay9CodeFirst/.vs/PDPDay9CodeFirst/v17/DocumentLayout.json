@@ -1,41 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\",
+  "WorkspaceRootPath": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\views\\khachhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\cthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\cthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\models\\cthoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\pham danh pho\\onedrive\\documents\\laptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|c:\\users\\phamp\\documents\\pdplaptrinhweb\\pdpday9codefirst\\pdpday9codefirst\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DE7DA4C-5E43-4C29-9D38-6C34D316969E}|PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj|solutionrelative:pdpday9codefirst\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,10 +67,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Views\\KhachHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Views\\KhachHangs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Views\\KhachHangs\\Index.cshtml",
+              "RelativeToolTip": "PDPDay9CodeFirst\\Views\\KhachHangs\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T08:01:53.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PDPDay9CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T08:01:48.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PDPDay9CodeFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T08:01:43.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "KhachHangsController.cs",
-              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Controllers\\KhachHangsController.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Controllers\\KhachHangsController.cs",
               "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Controllers\\KhachHangsController.cs",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Controllers\\KhachHangsController.cs",
               "RelativeToolTip": "PDPDay9CodeFirst\\Controllers\\KhachHangsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,11 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Program.cs",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Program.cs",
               "RelativeToolTip": "PDPDay9CodeFirst\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +130,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\AppDbContext.cs",
               "RelativeToolTip": "PDPDay9CodeFirst\\Models\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +142,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "QuanTri.cs",
-              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\QuanTri.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\QuanTri.cs",
               "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Models\\QuanTri.cs",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\QuanTri.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\QuanTri.cs",
               "RelativeToolTip": "PDPDay9CodeFirst\\Models\\QuanTri.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "SanPham.cs",
-              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\SanPham.cs",
               "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Models\\SanPham.cs",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\SanPham.cs",
               "RelativeToolTip": "PDPDay9CodeFirst\\Models\\SanPham.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "LoaiSanPham.cs",
-              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\LoaiSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\LoaiSanPham.cs",
               "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Models\\LoaiSanPham.cs",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\LoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\LoaiSanPham.cs",
               "RelativeToolTip": "PDPDay9CodeFirst\\Models\\LoaiSanPham.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,11 +178,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "HoaDon.cs",
-              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\HoaDon.cs",
               "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Models\\HoaDon.cs",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\HoaDon.cs",
               "RelativeToolTip": "PDPDay9CodeFirst\\Models\\HoaDon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,11 +190,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CTHoaDon.cs",
-              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\CTHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\CTHoaDon.cs",
               "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Models\\CTHoaDon.cs",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\CTHoaDon.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\CTHoaDon.cs",
               "RelativeToolTip": "PDPDay9CodeFirst\\Models\\CTHoaDon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,11 +202,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "KhachHang.cs",
-              "DocumentMoniker": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\KhachHang.cs",
               "RelativeDocumentMoniker": "PDPDay9CodeFirst\\Models\\KhachHang.cs",
-              "ToolTip": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\Models\\KhachHang.cs",
               "RelativeToolTip": "PDPDay9CodeFirst\\Models\\KhachHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

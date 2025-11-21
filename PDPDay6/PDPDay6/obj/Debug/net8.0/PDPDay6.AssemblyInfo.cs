@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PDPDay6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a1c6eedb121cc3f29c32c1ca609e6c22fd772a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5837e918e79981cfa5b3bbd342eb9bd1649181a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDPDay6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDPDay6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7750,23 +7750,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pham Danh Pho\\.nuget\\packages\\": {},
+    "C:\\Users\\phamp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj",
       "projectName": "PDPDay9CodeFirst",
-      "projectPath": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj",
-      "packagesPath": "C:\\Users\\Pham Danh Pho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pham Danh Pho\\OneDrive\\Documents\\LapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\obj\\",
+      "projectPath": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\PDPDay9CodeFirst.csproj",
+      "packagesPath": "C:\\Users\\phamp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\phamp\\Documents\\PDPLapTrinhWeb\\PDPDay9CodeFirst\\PDPDay9CodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pham Danh Pho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\phamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7833,7 +7833,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
